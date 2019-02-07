@@ -1,0 +1,21 @@
+Channel	Address	Device Type	Instrument Type	Purpose	Color
+6	13	36° Source Four	ETC 436		R64
+5	14	36° Source Four	ETC 436		R64
+9	19	26° Source Four	ETC 426		L201
+2	25	36° Source Four	ETC 436		
+1	26	36° Source Four	ETC 436		
+8	27	36° Source Four	ETC 436		R64
+7	28	36° Source Four	ETC 436		R64
+4	39	36° Source Four	ETC 436		
+3	40	36° Source Four	ETC 436		
+10	300	Revolution	SourceFour Revolution		
+18	9	10° Source Four	ETC 410		R55
+15	10	10° Source Four	ETC 410		R05
+17	4	10° Source Four	ETC 410		R05
+20	3	10° Source Four	ETC 410		R55
+16	7	10° Source Four	ETC 410		R05
+19	6	10° Source Four	ETC 410		R55
+12	360	Sola 6	Litepanels Sola 6		
+11	330	Sola 6	Litepanels Sola 6		
+13	390	Sola 6	Litepanels Sola 6		
+14	420	Sola 6	Litepanels Sola 6		
