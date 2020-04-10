@@ -4545,7 +4545,6 @@ r: off 3rd leg
 <fs>1</fs>
 </shape>
 </fields>
-<beamcolor></beamcolor>
 </shape>
 <shape>
 <class>LXLight</class>
@@ -4729,7 +4728,6 @@ r: off 3rd leg
 <v>361</v>
 </info>
 <fields />
-<beamcolor></beamcolor>
 </shape>
 <shape>
 <class>LXPosition</class>
@@ -5076,7 +5074,6 @@ r: off 3rd leg
 <fs>1</fs>
 </shape>
 </fields>
-<beamcolor></beamcolor>
 </shape>
 <shape>
 <class>LXLight</class>
@@ -5573,7 +5570,6 @@ r: off 3rd leg
 <v>366</v>
 </info>
 <fields />
-<beamcolor></beamcolor>
 </shape>
 <shape>
 <class>LXPosition</class>
@@ -7361,7 +7357,6 @@ r: off 3rd leg
 <fs>1</fs>
 </shape>
 </fields>
-<beamcolor></beamcolor>
 </shape>
 <shape>
 <class>LXLight</class>
@@ -7403,7 +7398,6 @@ r: off 3rd leg
 <v>372</v>
 </info>
 <fields />
-<beamcolor></beamcolor>
 </shape>
 <shape>
 <class>LXLight</class>
@@ -8721,7 +8715,7 @@ EBokV05TLmtleXNaTlMub2JqZWN0c1YkY2xhc3OpERITFBUWFxgZgAKAA4AEgAWABoAHgAiACYAK
 qRsbGxsbGxsiG4ALgAuAC4ALgAuAC4ALgAyAC4ARWHdmcmFtZV93WHdmcmFtZV9oWHdmcmFtZV95
 WXdzY3JvbGxfeVl3c2Nyb2xsX3dYd2ZyYW1lX3hZd3Njcm9sbF9oW3RleHRhdHRyaWJzWXdzY3Jv
 bGxfeCMAAAAAAAAAANMNDg8wMiShMYANoTOADoARVk5TRm9udNQ3ODkPOjs8PVZOU1NpemVYTlNm
-RmxhZ3NWTlNOYW1lI0AiAAAAAAAAEQ4QgA+AEF8QEi5BcHBsZVN5c3RlbVVJRm9udNJAQTVCWiRj
+RmxhZ3NWTlNOYW1lI0AiAAAAAAAAEQkQgA+AEF8QEi5BcHBsZVN5c3RlbVVJRm9udNJAQTVCWiRj
 bGFzc25hbWVYJGNsYXNzZXOiNUNYTlNPYmplY3TSQEFFRl8QE05TTXV0YWJsZURpY3Rpb25hcnmj
 RUdDXE5TRGljdGlvbmFyeQAIABEAGgAkACkAMgA3AEkATABRAFMAaABuAHUAfQCIAI8AmQCbAJ0A
 nwChAKMApQCnAKkAqwC1ALcAuQC7AL0AvwDBAMMAxQDHAMkA0gDbAOQA7gD4AQEBCwEXASEBKgEx
@@ -8752,7 +8746,7 @@ EBokV05TLmtleXNaTlMub2JqZWN0c1YkY2xhc3OpERITFBUWFxgZgAKAA4AEgAWABoAHgAiACYAK
 qRsbGxsbGxsiG4ALgAuAC4ALgAuAC4ALgAyAC4ARWHdmcmFtZV93WHdmcmFtZV9oWHdmcmFtZV95
 WXdzY3JvbGxfeVl3c2Nyb2xsX3dYd2ZyYW1lX3hZd3Njcm9sbF9oW3RleHRhdHRyaWJzWXdzY3Jv
 bGxfeCMAAAAAAAAAANMNDg8wMiShMYANoTOADoARVk5TRm9udNQ3ODkPOjs8PVZOU1NpemVYTlNm
-RmxhZ3NWTlNOYW1lI0AiAAAAAAAAEQ4QgA+AEF8QEi5BcHBsZVN5c3RlbVVJRm9udNJAQTVCWiRj
+RmxhZ3NWTlNOYW1lI0AiAAAAAAAAEQkQgA+AEF8QEi5BcHBsZVN5c3RlbVVJRm9udNJAQTVCWiRj
 bGFzc25hbWVYJGNsYXNzZXOiNUNYTlNPYmplY3TSQEFFRl8QE05TTXV0YWJsZURpY3Rpb25hcnmj
 RUdDXE5TRGljdGlvbmFyeQAIABEAGgAkACkAMgA3AEkATABRAFMAaABuAHUAfQCIAI8AmQCbAJ0A
 nwChAKMApQCnAKkAqwC1ALcAuQC7AL0AvwDBAMMAxQDHAMkA0gDbAOQA7gD4AQEBCwEXASEBKgEx
@@ -8811,6 +8805,7 @@ AAAAAEgAAAAAAAAAAAAAAAAAAAHY
 <modelFrame_y>466.000000</modelFrame_y>
 <modelFrame_w>564.000000</modelFrame_w>
 <modelFrame_h>561.000000</modelFrame_h>
+<restore_model>y</restore_model>
 </model_data>
 <userviews />
 <current_view>
