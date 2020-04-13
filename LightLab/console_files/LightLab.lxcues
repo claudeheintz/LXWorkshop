@@ -4302,7 +4302,7 @@
 <use>D-CSL</use>
 <color>R05</color>
 <patch>
-<a>22</a>
+<a>23</a>
 </patch>
 </chan>
 </master_channels>
@@ -4323,7 +4323,7 @@
 <use>D-CSC</use>
 <color>R05</color>
 <patch>
-<a>23</a>
+<a>22</a>
 </patch>
 </chan>
 </master_channels>
