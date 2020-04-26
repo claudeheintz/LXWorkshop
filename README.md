@@ -1,9 +1,9 @@
 # LXWorkshop
-Keynotes and example files from LXSeries Workshop
 
-This project contains files from LXSeries workshops that teach the basics of LXSeries software.
 
-The presentations are arranged as a follow-along tutorial.
+This project contains materials for learning using LXSeries software.  There are files from LXSeries workshops that teach the basics of the software.  There are also files designed to be used to explore lighting concepts using the LXSeries applications.
+
+The Light Lab folder provides pre-built files that students can use to explore creating lighting looks.  The workshop folders contain Keynotes and example files from LXSeries Workshop presentations that are arranged as a follow-along tutorial.
 
 ----------------------------------------------------------
 
