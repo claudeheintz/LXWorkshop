@@ -9,6 +9,9 @@ The presentations are arranged as a follow-along tutorial.
 
 This is a summary of the contents of each of the folders:
 
+### LightLab
+The files in this folder can be used as a starting point for creating renderings of lighting with **LXBeams** and **LXFree for Java**.
+
 ### LXWorkshop PDFs
   Contains the presentation slides for the LXBeams tutorial.
   
