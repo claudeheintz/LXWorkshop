@@ -21,6 +21,7 @@ The files in this folder can be used as a starting point for creating renderings
 ### LXWorkshop files
   Contains auxiliary example files used by the **LXBeams** tutorial.
 
+----------------------------------------------------------
 
 ### Donate
   If you would like to support LXSeries learning materials, you can make a donation:
