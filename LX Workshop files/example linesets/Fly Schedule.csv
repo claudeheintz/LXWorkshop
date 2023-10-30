@@ -1,0 +1,17 @@
+Name,Distance,Height,Create,Opening,Size
+START_X,-15’-0”,,,,
+END_X,15’-0”,,,,
+LABEL_X,19’-0”,,,,
+1st Border,0’-3”,,Border,12’-6”,24’x5’
+1st Electric,1’-3”,15’-0”,,,
+1st Legs`,2’-3”,,Legs,11’,4’x18’
+Pipe 4,3’-0”,30’-0”,,,
+Pipe 5,3’-9”,30’-0”,,,
+Pipe 6,5’-0”,30’-0”,,,
+2nd Border,6’-6”,,Border,15’-6”,24’x5’
+2nd Electric,8’-0”,18’-6”,,,
+2nd Legs,9’-0”,,Legs,11’,4’x18’
+Pipe 10,10’-3”,30’-0”,,,
+Pipe 11,11’-6”,30’-0”,,,
+3rd Border,12’-9”,,Border,15’,24’x5’
+Cyc,14’-0”,,Drop,,24’x20’
